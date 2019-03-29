@@ -1,0 +1,320 @@
+{
+    "Ezera": {
+      "id": 1,
+      "stars": 48,
+      "shop-data": {
+        "fighter-medal": {
+          "count": 2,
+          "price": 400
+        },
+        "slime-jelly": {
+          "count": 5,
+          "price": 120
+        },
+        "blessing-of-orbis": {
+          "count": 5,
+          "price": 120
+        },
+        "eternal-forest-dust": {
+          "count": 5,
+          "price": 120
+        }
+      }
+    },
+    "Reingar": {
+      "id": 2,
+      "stars": 48,
+      "shop-data": {
+        "reingar-student-id": {
+          "count": 2,
+          "price": 400
+        },
+        "mysterious-flash": {
+          "count": 5,
+          "price": 120
+        },
+        "special-alarm-loop": {
+          "count": 5,
+          "price": 120
+        },
+        "path-power-loop": {
+          "count": 5,
+          "price": 120
+        }
+      }
+    },
+    "Levulin": {
+      "id": 3,
+      "stars": 21,
+      "shop-data": {
+        "slime-jelly": {
+          "count": 5,
+          "price": 120
+        },
+        "ultra-fang": {
+          "count": 5,
+          "price": 120
+        },
+        "strange-jelly": {
+          "count": 5,
+          "price": 120
+        }
+      }
+    },
+    "Savara": {
+      "id": 4,
+      "stars": 33,
+      "shop-data": {
+        "dragons-wrath": {
+          "count": 2,
+          "price": 400
+        },
+        "blazing-rage": {
+          "count": 5,
+          "price": 120
+        },
+        "erikion-carapace": {
+          "count": 5,
+          "price": 120
+        },
+        "baby-mouse-insignia": {
+          "count": 5,
+          "price": 120
+        }
+      }
+    },
+    "Farche Frontier": {
+      "id": 5,
+      "stars": 24,
+      "shop-data": {
+        "erikion-carapace": {
+          "count": 5,
+          "price": 120
+        },
+        "baby-mouse-insignia": {
+          "count": 5,
+          "price": 120
+        },
+        "twisted-fang": {
+          "count": 5,
+          "price": 120
+        }
+      }
+    },
+    "Solayu Swamp": {
+      "id": 6,
+      "stars": 33,
+      "shop-data": {
+        "mercenarys-medicine": {
+          "count": 2,
+          "price": 400
+        },
+        "sharp-spearhead": {
+          "count": 5,
+          "price": 120
+        },
+        "shiny-enchantment": {
+          "count": 5,
+          "price": 120
+        },
+        "archers-vision": {
+          "count": 5,
+          "price": 120
+        }
+      }
+    },
+    "Solayu Forest": {
+      "id": 7,
+      "stars": 33,
+      "shop-data": {
+        "blazing-soul": {
+          "count": 2,
+          "price": 400
+        },
+        "flame-of-soul": {
+          "count": 5,
+          "price": 120
+        },
+        "sharp-spearhead": {
+          "count": 5,
+          "price": 120
+        },
+        "leather-sheath": {
+          "count": 5,
+          "price": 120
+        }
+      }
+    },
+    "Dun Blyraia": {
+      "id": 8,
+      "stars": 48,
+      "shop-data": {
+        "demon-blood-gem": {
+          "count": 2,
+          "price": 400
+        },
+        "eternal-forest-dust": {
+          "count": 5,
+          "price": 120
+        },
+        "blazing-rage": {
+          "count": 5,
+          "price": 120
+        },
+        "shiny-enchantment": {
+          "count": 5,
+          "price": 120
+        }
+      }
+    },
+    "South Wetheric Moor": {
+      "id": 9,
+      "stars": 48,
+      "shop-data": {
+        "nightmare-mask": {
+          "count": 2,
+          "price": 400
+        },
+        "dream-time-circuit": {
+          "count": 5,
+          "price": 120
+        },
+        "leather-sheath": {
+          "count": 5,
+          "price": 120
+        },
+        "order-of-shield-insignia": {
+          "count": 5,
+          "price": 120
+        }
+      }
+    },
+    "North Wetheric Moor": {
+      "id": 10,
+      "stars": 48,
+      "shop-data": {
+        "ancient-creature-nucleus": {
+          "count": 2,
+          "price": 400
+        },
+        "blessing-of-orbis": {
+          "count": 5,
+          "price": 120
+        },
+        "small-sun-badge": {
+          "count": 5,
+          "price": 120
+        },
+        "dream-time-circuit": {
+          "count": 5,
+          "price": 120
+        }
+      }
+    },
+    "Duselnorc": {
+      "id": 11,
+      "stars": 39,
+      "shop-data": {
+        "horn-of-desire": {
+          "count": 2,
+          "price": 400
+        },
+        "blood-soaked-bone": {
+          "count": 5,
+          "price": 120
+        },
+        "cold-look": {
+          "count": 5,
+          "price": 120
+        },
+        "twisted-fang": {
+          "count": 5,
+          "price": 120
+        }
+      }
+    },
+    "West Taranor": {
+      "id": 12,
+      "stars": 24,
+      "shop-data": {
+        "the-heart-of-hypocrisy": {
+          "count": 2,
+          "price": 400
+        },
+        "special-alarm-loop": {
+          "count": 5,
+          "price": 120
+        },
+        "ring-of-glory": {
+          "count": 5,
+          "price": 120
+        },
+        "small-sun-badge": {
+          "count": 5,
+          "price": 120
+        }
+      }
+    },
+    "Central Taranor": {
+      "id": 13,
+      "stars": 24,
+      "shop-data": {
+        "fused-nerve": {
+          "count": 2,
+          "price": 400
+        },
+        "strange-jelly": {
+          "count": 5,
+          "price": 120
+        },
+        "flame-of-soul": {
+          "count": 5,
+          "price": 120
+        },
+        "path-power-loop": {
+          "count": 5,
+          "price": 120
+        }
+      }
+    },
+    "East Taranor": {
+      "id": 14,
+      "stars": 39,
+      "shop-data": {
+        "black-curse-powder": {
+          "count": 2,
+          "price": 400
+        },
+        "ring-of-glory": {
+          "count": 5,
+          "price": 120
+        },
+        "cursed-ashes": {
+          "count": 5,
+          "price": 120
+        },
+        "archers-vision": {
+          "count": 5,
+          "price": 120
+        }
+      }
+    },
+    "Breezy Plain": {
+      "id": 16,
+      "stars": 33,
+      "shop-data": {
+        "blood-soaked-bone": {
+          "count": 5,
+          "price": 120
+        },
+        "cursed-ashes": {
+          "count": 5,
+          "price": 120
+        },
+        "order-of-shield-insignia": {
+          "count": 5,
+          "price": 120
+        }
+      }
+    }
+  }
